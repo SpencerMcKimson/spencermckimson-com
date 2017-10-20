@@ -37,9 +37,9 @@ const skills = [
 const skillsOnPaper = () => {
     return (
         skills.map((skill) => {
-            return <Paper style={style} zDepth={2}>
+            return <Paper style={style} zDepth={1}>
                 <div>{skill}</div>
-                </Paper>;
+            </Paper>;
         })
     );
 }

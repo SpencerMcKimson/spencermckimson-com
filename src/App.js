@@ -15,7 +15,7 @@ class App extends Component {
     return (
       <MuiThemeProvider>
         <div className="App">
-          <Header source_url="https://github.com/SpencerMcKimson.png?size=200" name="Spencer McKimson" subHeaderText="FullStack Sofware Developer & Software Development Lead at Emergency Reporting"/>
+          <Header source_url="https://github.com/SpencerMcKimson.png?size=200" name="Spencer McKimson" subHeaderText="FullStack Software Engineer & Lead Software Engineer"/>
           <Section>
             Here is my about me
           </Section>
